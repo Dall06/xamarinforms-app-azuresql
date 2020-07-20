@@ -1,0 +1,1 @@
+C:\Users\diego\source\repos\xamarinforms-app-azuresql\AppAzureSQL\AppAzureSQL.UWP\AppAzureSQL.UWP.csproj;x86

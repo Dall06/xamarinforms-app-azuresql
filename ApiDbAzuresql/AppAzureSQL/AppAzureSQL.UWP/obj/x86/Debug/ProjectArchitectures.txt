@@ -1,0 +1,1 @@
+D:\Users\Lyev\Documents\Developed programs folders\asp-netcore\ApiDbAzuresql\AppAzureSQL\AppAzureSQL.UWP\AppAzureSQL.UWP.csproj;x86
